@@ -7,9 +7,9 @@ To do EDA and predict Fare amount.
 The dataset provided by nyc.gov website:   
 [https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
+---
 
-- ## [Project Proposal]().
-- ## [MVP]().
-- ## [Documentation]().
-- ## [Presentaion]().
-- ## [Final Jupyter Notebook]().
+- ### [Project Proposal](https://github.com/iamal95/Linear-Regression-For-TLC-Trip-Record-Data/blob/main/Documents/Proposal.md).
+- ### [MVP](https://github.com/iamal95/Linear-Regression-For-TLC-Trip-Record-Data/blob/main/Documents/MVP.md).
+- ### [Documentation](https://github.com/iamal95/Linear-Regression-For-TLC-Trip-Record-Data/blob/main/Documents/Documentation.md).
+- ### [Final Jupyter Notebook](https://github.com/iamal95/Linear-Regression-For-TLC-Trip-Record-Data/blob/main/Code/Regression_project.ipynb).
