@@ -52,4 +52,4 @@ Cleaning the data from duplicate, outliers and nulls.
 
 
 ## Communication
-Presentation.
+[Presentation](https://github.com/iamal95/Linear-Regression-For-TLC-Trip-Record-Data/blob/main/Documents/presentation.pdf).
